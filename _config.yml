@@ -1,4 +1,4 @@
 name: nevets82.github.io
 markdown: redcarpet
 pygments: true
-layout: default
+timezone: Europe/Brussels

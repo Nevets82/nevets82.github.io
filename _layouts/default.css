@@ -1,0 +1,29 @@
+@media screen {
+	body {
+		background: #000 url('background.png') repeat left top;
+		color: #fff;
+		text-align: center;
+	}
+	header, footer, article {
+		margin:0em auto;
+		width:70%;
+		min-width:40em;
+	}
+	header {
+		text-align: right;
+	}
+	footer {
+		
+	}
+	article {
+		padding:1em;
+		border-radius:.5em;
+		background:#fff;
+		color:#000;
+		text-align:left;
+		margin:1em auto;
+		/*width:70%;
+		min-width:40em;*/
+		border:1px solid #fff
+	}
+}
