@@ -49,7 +49,7 @@ alert("Hello, World");
 
 ## PHP ##
 
-```PHP
+```php
 &lt;?php
 	Echo "Hello, World!";
 ?>
