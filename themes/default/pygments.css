@@ -71,6 +71,10 @@
 	pre .il { color: #3677a9 } /* Literal.Number.Integer.Long */
 }
 
+@media screen {
+	pre { padding: .5em; border-radius: .25em; }
+}
+
 @media print {
 	pre .hll { background-color: #ffffcc }
 	pre  { background: #f0f0f0; }
