@@ -44,9 +44,7 @@ public class Program
 
 ## Javascript ##
 
-```javascript
-alert("Hello, World");
-```
+
 
 ## PHP ##
 
@@ -54,4 +52,14 @@ alert("Hello, World");
 &lt;?php
 	Echo "Hello, World!";
 ?>
+```
+
+## Visual Basic ##
+
+```vb
+Module Program
+	Sub Main()
+		System.Console.WriteLine("Hello, World!")
+	End Sub 
+End Module
 ```
