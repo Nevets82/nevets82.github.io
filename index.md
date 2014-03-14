@@ -27,3 +27,16 @@ int main()
   std::cout << "Hello World!";
 }
 ```
+
+
+## C# ##
+
+```csharp
+public class Program
+{
+	public static void Main()
+	{
+		System.Console.WriteLine("Hello, World!");
+	}
+}
+```
