@@ -41,10 +41,23 @@ public class Program
 }
 ```
 
+## Javascript ##
+
+```javascript
+alert("Hello, World");
+```
+
+## PHP ##
+
+```PHP
+&lt;?php
+	Echo "Hello, World!";
+?>
+```
 
 ## Visual Basic ##
 
-```
+```vbnet
 Module Program
 	Sub Main()
 		System.Console.WriteLine("Hello, World!")
