@@ -42,18 +42,6 @@ public class Program
 ```
 
 
-## Javascript ##
-
-
-
-## PHP ##
-
-```PHP
-&lt;?php
-	Echo "Hello, World!";
-?>
-```
-
 ## Visual Basic ##
 
 ```vb
