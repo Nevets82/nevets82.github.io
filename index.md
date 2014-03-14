@@ -11,7 +11,7 @@ title: Hello, World
 
 main()
 {
-    printf("Hello World");
+    printf("Hello, World!");
 
 }
 ```
@@ -24,7 +24,7 @@ main()
 
 int main()
 {
-  std::cout << "Hello World!";
+  std::cout << "Hello, World!";
 }
 ```
 
@@ -44,7 +44,7 @@ public class Program
 ## Javascript ##
 
 ```javascript
-alert("Hello, World");
+alert("Hello, World!");
 ```
 
 ## PHP ##
