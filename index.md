@@ -11,7 +11,7 @@ title: Hello, World!
 
 main()
 {
-    printf("Hello, World!");
+	printf("Hello, World!");
 }
 ```
 
@@ -23,7 +23,7 @@ main()
 
 int main()
 {
-  std::cout << "Hello, World!";
+	std::cout << "Hello, World!";
 }
 ```
 
