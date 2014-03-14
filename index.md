@@ -50,14 +50,14 @@ alert("Hello, World");
 ## PHP ##
 
 ```php
-&lt;?php
+<?php
 	Echo "Hello, World!";
 ?>
 ```
 
 ## Visual Basic ##
 
-```
+```vbnet
 Module Program
 	Sub Main()
 		System.Console.WriteLine("Hello, World!")
