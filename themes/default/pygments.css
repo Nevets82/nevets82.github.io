@@ -72,7 +72,7 @@
 }
 
 @media screen {
-	pre { padding: .5em; border-radius: .25em; }
+	pre { padding: .5em; border-radius: .5em; }
 }
 
 @media print {
