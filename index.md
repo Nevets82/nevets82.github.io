@@ -12,7 +12,6 @@ title: Hello, World
 main()
 {
     printf("Hello, World!");
-
 }
 ```
 
