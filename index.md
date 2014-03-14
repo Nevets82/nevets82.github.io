@@ -48,12 +48,10 @@ public class Program
 alert("Hello, World");
 ```
 
-## Visual Basic ##
+## PHP ##
 
-```vb
-Module Program
-	Sub Main()
-		System.Console.WriteLine("Hello, World!")
-	End Sub 
-End Module
+```PHP
+&lt;?php
+	Echo "Hello, World!";
+?>
 ```
