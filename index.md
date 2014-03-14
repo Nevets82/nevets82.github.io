@@ -48,14 +48,6 @@ public class Program
 alert("Hello, World");
 ```
 
-## PHP ##
-
-```PHP
-&lt;?php
-	Echo "Hello, World!";
-?>
-```
-
 ## Visual Basic ##
 
 ```vb
