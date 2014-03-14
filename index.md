@@ -44,7 +44,7 @@ public class Program
 
 ## Visual Basic ##
 
-```vb
+```
 Module Program
 	Sub Main()
 		System.Console.WriteLine("Hello, World!")
