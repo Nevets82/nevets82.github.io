@@ -6,6 +6,47 @@ title: Hello, World!
 
 ## Programming Languages ##
 
+### ASP ###
+
+```aspx-cs
+<html>
+	<head>
+		<title>Hello, World!</title>
+	</head>
+	<body>
+		<% Response.Write "<p>Hello World!</p>" %>
+	</body>
+</html>
+```
+
+### ASPX C# ###
+
+```aspx-cs
+<%@ Page Language="C#"%>
+<html>
+	<head>
+		<title>Hello, World!</title>
+	</head>
+	<body>
+	   <% Response.Write("<p>Hello, World!</p>"); %>
+	</body>
+</html>
+```
+
+### ASPX Visual Basic ###
+
+```aspx-vb
+<%@ Page Language="VB"%>
+<html>
+	<head>
+		<title>Hello, World!</title>
+	</head>
+	<body>
+	   <% Response.Write("<p>Hello, World!</p>") %>
+	</body>
+</html>
+```
+
 ### C ###
 
 ```c
