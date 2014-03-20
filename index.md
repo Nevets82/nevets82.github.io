@@ -106,19 +106,3 @@ title: Hello, World!
 	</body>
 </html>
 ```
-
-## Shell Languages ##
-
-### Windows Batch ###
-
-```batch
-@ECHO off
-ECHO Hello, World!
-PAUSE
-```
-
-### PowerShell ###
-
-```powershell
-Write-Host Hello, World!
-```
