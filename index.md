@@ -96,7 +96,7 @@ class Program {
 ### JavaScript ###
 
 ```javascript
-alert("Hello, World!");
+document.write("Hello, World!"); 
 ```
 
 ### PHP ###
