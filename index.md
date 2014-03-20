@@ -163,3 +163,11 @@ PAUSE
 ```powershell
 Write-Host Hello, World!
 ```
+
+## Query Languages ##
+
+### SQL ###
+
+```sql
+SELECT 'Hello, World!';
+```
