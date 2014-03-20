@@ -106,3 +106,13 @@ title: Hello, World!
 	</body>
 </html>
 ```
+
+## Shell Languages ##
+
+### Windows Batch ###
+
+```batch
+@ECHO off
+ECHO Hello, World!
+PAUSE
+```
