@@ -111,8 +111,14 @@ title: Hello, World!
 
 ### Windows Batch ###
 
-```batch
+```bat
 @ECHO off
 ECHO Hello, World!
 PAUSE
+```
+
+### PowerShell ###
+
+```powershell
+Write-Host Hello, World!
 ```
