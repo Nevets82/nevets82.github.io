@@ -1,3 +1,9 @@
+@media all {
+	body {
+		font-family:Verdana;
+	}
+}
+
 @media screen {
 	body {
 		background: #000 url('background.png') repeat left top;
@@ -22,8 +28,12 @@
 		color:#000;
 		text-align:left;
 		margin:1em auto;
-		/*width:70%;
-		min-width:40em;*/
 		border:1px solid #fff
+	}
+}
+
+@media print {
+	header, footer {
+		display:none;
 	}
 }
