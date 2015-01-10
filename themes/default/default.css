@@ -14,7 +14,15 @@
 		margin:0em auto;
 	}
 	header {
-		text-align: right;
+		text-align:right;
+	}
+	header h1 a {
+		color: #fff;
+		text-decoration:none;
+	}
+	header h1 a:hover {
+		color: #fff;
+		text-decoration:underline;
 	}
 	footer {
 		
@@ -38,7 +46,7 @@ and (max-width: 768px) {
 }
 
 @media only screen
- and (-webkit-min-device-pixel-ratio: 1.25)
+and (-webkit-min-device-pixel-ratio: 1.25) {
 	body {
 		padding:0em 1em 0em 1em;
 	}
