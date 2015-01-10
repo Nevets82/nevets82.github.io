@@ -38,6 +38,13 @@ and (max-width: 768px) {
 }
 
 @media only screen
+ and (-webkit-min-device-pixel-ratio: 1.25)
+	body {
+		padding:0em 1em 0em 1em;
+	}
+}
+
+@media only screen
 and (min-width: 768px) {
 	header, footer, article {
 		width:70%;
