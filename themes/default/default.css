@@ -12,8 +12,6 @@
 	}
 	header, footer, article {
 		margin:0em auto;
-		width:70%;
-		min-width:40em;
 	}
 	header {
 		text-align: right;
@@ -29,6 +27,21 @@
 		text-align:left;
 		margin:1em auto;
 		border:1px solid #fff
+	}
+}
+
+@media only screen
+and (max-width: 768px) {
+	body {
+		padding:0em 1em 0em 1em;
+	}
+}
+
+@media only screen
+and (min-width: 768px) {
+	header, footer, article {
+		width:70%;
+		min-width:48em;
 	}
 }
 
