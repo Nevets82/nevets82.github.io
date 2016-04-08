@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apache Licence 2.0
+title: Apache License 2.0
 ---
-# Apache Licence #
+# Apache License #
 
