@@ -1,4 +1,4 @@
 name: nevets82.github.io
 markdown: kramdown
-pygments: true
+highlighter: rouge
 timezone: Europe/Brussels
