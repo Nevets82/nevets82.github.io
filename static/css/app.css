@@ -1,0 +1,71 @@
+@media all {
+    body {
+        font-family: Verdana;
+        padding-top: 64px;
+    }
+    
+    hr {
+        border-top: solid .2em black;
+    }
+    
+    .app-header {
+    }
+
+    .app-footer {
+        border-top: solid .2em black;
+        margin-top: .5em;
+        padding-top: .5em;
+    }
+    
+    .app-content {
+    }
+
+    .app-content .breadcrumb a {
+    }
+
+    .app-content .breadcrumb {
+        background-color: transparent;
+        border: none;
+    }
+
+    .app-content .jumbotron {
+        background-color: transparent;
+        border: solid .2em black;
+    }
+}
+
+@media screen {
+
+    body {
+        background-image: url("../images/blackboard.jpg");
+        background-repeat: repeat;
+        color: whitesmoke;
+    }
+    
+    hr {
+        border-top-color: whitesmoke;
+    }
+
+    .app-header {
+        background-color: whitesmoke;
+        background-image: linear-gradient(white, whitesmoke);
+    }
+
+    .app-footer {
+        border-top-color: whitesmoke;
+    }
+    
+    .app-content {
+    }
+
+    .app-content .breadcrumb {
+    }
+
+    .app-content .breadcrumb a {
+        color: whitesmoke;
+    }
+
+    .app-content .jumbotron {
+        border-color: whitesmoke;
+    }
+}
